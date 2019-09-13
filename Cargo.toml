@@ -5,3 +5,4 @@ authors = ["Ganesha Danu <ganesha.danu@kumparan.com>"]
 edition = "2018"
 
 [dependencies]
+ggez = "0.5.1"
